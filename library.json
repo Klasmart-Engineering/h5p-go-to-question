@@ -27,7 +27,7 @@
   ],
   "preloadedDependencies": [
     {
-      "machineName": "H5P.FontKidsLoop",
+      "machineName": "FontKidsLoop",
       "majorVersion": 1,
       "minorVersion": 0
     },
