@@ -2,6 +2,10 @@
 .h5peditor div.h5p-gotoquestion {
   height: 100%;
 }
+.h5p-gotoquestion {
+  font-family: 'Roboto', sans-serif;
+}
+
 .h5p-gotoquestion-wrapper {
   height: 100%;
   background: #f5f5f5;
