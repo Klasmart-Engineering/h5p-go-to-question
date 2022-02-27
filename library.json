@@ -42,6 +42,11 @@
       "machineName": "H5PEditor.Timecode",
       "majorVersion": 1,
       "minorVersion": 2
+    },
+    {
+      "machineName": "EditorFontKidsLoop",
+      "majorVersion": 1,
+      "minorVersion": 0
     }
   ]
 }
